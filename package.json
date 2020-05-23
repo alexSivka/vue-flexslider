@@ -1,0 +1,23 @@
+{
+  "name": "vue-flexslider",
+  "version": "1.0.0",
+  "description": "Vue component wrapper for woocommerce/FlexSlider",
+  "license": "MIT",
+  "main": "./src/index.js",
+  "scripts": {},
+  "dependencies": {
+    "flexslider": "^2.7.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexSivka/vue-flexslider.git"
+  },
+  "homepage": "https://github.com/alexSivka/vue-flexslider.git",
+  "keywords": [
+    "flexslider",
+    "vue",
+    "slider",
+    "component"
+  ]
+}

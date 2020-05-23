@@ -1,0 +1,1 @@
+# Vue component wrapper for woocommerce/FlexSlider
